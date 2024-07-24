@@ -18,4 +18,3 @@
 * Wasp
 * Antman
 * Personal
-* Agregando otra persona
