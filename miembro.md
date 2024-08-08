@@ -18,3 +18,5 @@
 * Wasp
 * Antman
 * Personal
+* Super Man
+* Batichica
