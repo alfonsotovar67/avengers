@@ -8,6 +8,7 @@
 * Hank Pym
 * Hawkeye
 * Hulk
+* David
 * Iron Man
 * Luke Cage
 * QuickSilver
@@ -18,3 +19,8 @@
 * Wasp
 * Antman
 * Personal
+* Super Man
+* Batichica
+* batman
+* linterna verde
+* Google
