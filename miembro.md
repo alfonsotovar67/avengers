@@ -19,6 +19,8 @@
 * Wasp
 * Antman
 * Personal
+* Super Man
+* Batichica
 * batman
 * linterna verde
 * Google
